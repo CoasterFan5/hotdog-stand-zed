@@ -3,10 +3,14 @@ Based on the [Windows 3.1 Theme](https://blog.codinghorror.com/a-tribute-to-the-
 Inspired by the [Visual Studio Code extension](https://github.com/SomeKittens/VSC-HDS)
 
 # Images
-## Classic Theme
-For fun
-![Classic Theme](./screenshots/classic.png)
+<details>
+    <summary>##Classic Theme</summary>
+    For fun
+    ![Classic Theme](https://static.coasterfan5.com/classic.png)
+</details
 
-## Midnight Theme
-A Hot Dog Cart inspired theme that is usable.
-![Classic Theme](./screenshots/midnight.png)
+<details>
+    <summary>##Midnight Theme</summary>
+    A Hot Dog Cart inspired theme that is somewhat usable.
+    ![Midnight Theme](https://static.coasterfan5.com/midnight.png)
+</details
