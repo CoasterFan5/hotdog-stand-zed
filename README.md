@@ -5,12 +5,10 @@ Inspired by the [Visual Studio Code extension](https://github.com/SomeKittens/VS
 # Images
 <details>
     <summary>##Classic Theme</summary>
-    For fun
     ![Classic Theme](https://static.coasterfan5.com/classic.png)
 </details
 
 <details>
     <summary>##Midnight Theme</summary>
-    A Hot Dog Cart inspired theme that is somewhat usable.
-    ![Midnight Theme](https://static.coasterfan5.com/midnight.png)
+    ![Midnight Them](https://static.coasterfan5.com/midnight.png)
 </details
