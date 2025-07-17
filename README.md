@@ -6,11 +6,11 @@ Inspired by the [Visual Studio Code extension](https://github.com/SomeKittens/VS
 <details>
     <summary>##Classic Theme</summary>
         For fun
-        <img width="732" height="1014" alt="Screenshot 2025-07-17 at 11 31 54 AM" src="https://static.coasterfan5.com/classic" />
+        <img width="732" height="1014" alt="Screenshot 2025-07-17 at 11 31 54 AM" src="https://static.coasterfan5.com/classic.png" />
 </details
 
 <details>
     <summary>##Midnight Theme</summary>
     A semi-usable version of Hot Dog cart but dark.
     <img width="732" height="1014" alt="Screenshot 2025-07-17 at 11 31 54 AM" src="https://static.coasterfan5.com/midnight.png" />
-</details
+</details>
