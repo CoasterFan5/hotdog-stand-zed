@@ -1,0 +1,7 @@
+id = "hotdogstand"
+name = "Hot Dog Stand"
+version = "0.0.1"
+schema_version = 1
+authors = ["Coasterfan5"]
+description = "Hot Dog Stand theme for Zed"
+repository = "https://github.com/coasterfan5/hotdog-stand-zed"
