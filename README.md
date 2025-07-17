@@ -4,13 +4,13 @@ Inspired by the [Visual Studio Code extension](https://github.com/SomeKittens/VS
 
 # Images
 <details>
-    <summary>##Classic Theme</summary>
+    <summary><h2>##Classic Theme</h2></summary>
         For fun
         <img width="732" height="1014" alt="Screenshot 2025-07-17 at 11 31 54 AM" src="https://static.coasterfan5.com/classic.png" />
 </details
 
 <details>
-    <summary>##Midnight Theme</summary>
+    <summary><h2>Midnight Theme</h2></summary>
     A semi-usable version of Hot Dog cart but dark.
     <img width="732" height="1014" alt="Screenshot 2025-07-17 at 11 31 54 AM" src="https://static.coasterfan5.com/midnight.png" />
 </details>
